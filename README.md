@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Aymane Maghouti</h1>
 <h3 align="center">A passionate Data Engineering and Software Engineering Student </h3>
 
