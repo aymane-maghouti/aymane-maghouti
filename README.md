@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Aymane Maghouti</h1>
 <h3 align="center">A passionate data engineering and software engineering</h3>
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **aymanemaghouti16@gmail.com**
 
-- ⚡ Fun fact **I Love playing basketball and football**
+- ⚡ **I Love playing basketball and football** 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
