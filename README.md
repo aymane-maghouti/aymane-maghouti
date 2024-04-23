@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aymane-maghouti.github.io/](https://aymane-maghouti.github.io/)
 
-- 💬 Ask me about **Python - Java - Hadoop - Machine Learning - Flask - databases ...**
+- 💬 Ask me about **SQL - Python - Java - Hadoop - Machine Learning - Flask - databases ...**
 
 - 📫 How to reach me **aymanemaghouti16@gmail.com**
 
