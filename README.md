@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aymane-maghouti.github.io/](https://aymane-maghouti.github.io/)
 
-- 💬 Ask me about **SQL - Python - Java - JEE - Spring - Big data tech (Hadoop - Spark ..) - Machine Learning - Flask - databases ...**
+- 💬 Ask me about **Data Engineering & Sofware Engineering - Big data tech (Hadoop - Spark ..) - Machine Learning - databases ...**
 
 - 📫 How to reach me **aymanemaghouti16@gmail.com**
 
