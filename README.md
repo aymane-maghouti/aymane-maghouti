@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymane-maghouti&label=Profile%20views&color=0e75b6&style=flat" alt="aymane-maghouti" /> </p>
 
-- 🌱 I’m currently learning **JEE(Spring) - NLP - Deep Learning - Big data tech ...**
+- 🌱 I’m currently learning **Cloud Computing platform : AWS - Azure - GCP**
 
 - 👨‍💻 All of my projects are available at [https://aymane-maghouti.github.io/](https://aymane-maghouti.github.io/)
 
-- 💬 Ask me about **SQL - Python - Java - Hadoop - Machine Learning - Flask - databases ...**
+- 💬 Ask me about **SQL - Python - Java - JEE - Spring - Big data tech (Hadoop - Spark ..) - Machine Learning - Flask - databases ...**
 
 - 📫 How to reach me **aymanemaghouti16@gmail.com**
 
