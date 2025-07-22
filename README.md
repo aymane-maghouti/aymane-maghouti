@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymane Maghouti</h1>
-<h3 align="center">A passionate Data and Software Engineering Student </h3>
+<h3 align="center">Data and Software Engineer | Big Dta Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymane-maghouti&label=Profile%20views&color=0e75b6&style=flat" alt="aymane-maghouti" /> </p>
 
