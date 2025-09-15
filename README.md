@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymane Maghouti</h1>
-<h3 align="center">Data and AI Engineer | Big Data Engineer </h3>
+<h3 align="center">Data and AI Engineer | Big Data | AI Solution </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymane-maghouti&label=Profile%20views&color=0e75b6&style=flat" alt="aymane-maghouti" /> </p>
 
