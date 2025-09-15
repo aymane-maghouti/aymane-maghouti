@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aymane Maghouti</h1>
-<h3 align="center">Data and Software Engineer | Big Data Engineer </h3>
+<h3 align="center">Data and AI Engineer | Big Data Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymane-maghouti&label=Profile%20views&color=0e75b6&style=flat" alt="aymane-maghouti" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing platform : AWS - Azure - GCP**
 
-- 👨‍💻 All of my projects are available at [https://aymane-maghouti.github.io/](https://aymane-maghouti.github.io/)
+- 👨‍💻 All of my experiences and projects are available at [https://aymane-maghouti.github.io/](https://aymane-maghouti.github.io/)
 
 - 💬 Ask me about **Data Engineering & Sofware Engineering - Big data tech (Hadoop - Spark ..) - Machine Learning - databases ...**
 
