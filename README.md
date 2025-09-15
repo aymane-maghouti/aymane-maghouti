@@ -28,8 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymane-maghouti&show_icons=true&locale=en" alt="aymane-maghouti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymane-maghouti&" alt="aymane-maghouti" /></p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Welcome to my GitHub account 🙌
