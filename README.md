@@ -1,33 +1,122 @@
-<h1 align="center">Hi 👋, I'm Aymane Maghouti</h1>
-<h3 align="center">Data and AI Engineer | Big Data | AI Solution </h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymane-maghouti&label=Profile%20views&color=0e75b6&style=flat" alt="aymane-maghouti" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4a7a,100:0d1117&height=120&section=header" width="100%"/>
 
-- 🌱 I’m currently learning **Cloud Computing platform : AWS - Azure - GCP**
+# Aymane Maghouti
+### Data Engineer · Big Data · AI Solutions
 
-- 👨‍💻 All of my experiences and projects are available at [https://aymane-maghouti.github.io/](https://aymane-maghouti.github.io/)
+*Designing scalable data platforms and AI-driven pipelines for enterprise environments*
 
-- 💬 Ask me about **Data Engineering & Sofware Engineering - Big data tech (Hadoop - Spark ..) - Machine Learning - databases ...**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymane-maghouti-86959a24a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aymane-maghouti.github.io/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aymanemaghouti2065)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanemaghouti16@gmail.com)
 
-- 📫 How to reach me **aymanemaghouti16@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=aymane-maghouti&color=0e75b6&style=flat-square&label=Profile+Views)
 
-- ⚡ **I Love playing basketball and football** 😄
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aymane-maghouti-86959a24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane-maghouti-86959a24a" height="30" width="40" /></a>
-<a href="https://fb.com/aymane.maghouti.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymane.maghouti.1" height="30" width="40" /></a>
-<a href="https://instagram.com/aymanemaghouti4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aymanemaghouti4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@aymanemaghouti2065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aymanemaghouti2065" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymane-maghouti&show_icons=true&locale=en&layout=compact" alt="aymane-maghouti" /></p>
+I'm a data engineer specializing in the design and modernization of data platforms, real-time analytics frameworks, and AI-enabled information systems. I've contributed to large-scale transformation initiatives — from migrating critical enterprise environments to building RAG systems and semantic pipelines for complex technical content.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymane-maghouti&show_icons=true&locale=en" alt="aymane-maghouti" /></p>
+- 🛫 Currently @ **Airbus** — Data Analytics & Engineering on the Final Assembly Line (FAL), working within the Skywise (Palantir) Big Data ecosystem
+- 🧠 Building **AI-powered knowledge platforms** with RAG, Vertex AI, and Gemini on GCP
+- ☁️ Working across **AWS · Azure · GCP** cloud environments
+- 🏀 Outside of data: basketball and football keep me going
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### Welcome to my GitHub account 🙌
+## Experience highlights
+
+| Company | Role | Period |
+|---------|------|--------|
+| ✈️ **Airbus** | Data Analyst / Data Engineer — FAL Production Analytics (Skywise) + AI Knowledge Platform (GCP/RAG) | Feb 2026 — Present |
+| 📡 **INWI** | Data Platform Migration & Real-Time Analytics — Oracle → SQL Server, Kafka, Power BI | Feb 2025 — Sep 2025 |
+| 🧱 **Shiftbricks** | Data Ingestion Pipeline for AI Application — Medallion Architecture, Airflow | Jun 2024 — Sep 2024 |
+| 🚂 **ONCF** | Data Analytics Intern — BigQuery, DBT, Star Schema, 10M+ records/day | Jul 2024 — Sep 2024 |
+
+---
+
+## Tech stack
+
+**Data Engineering & Streaming**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**Cloud & MLOps**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Data Warehousing & BI**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoft&logoColor=white)
+
+**Programming & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aymane-maghouti&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymane-maghouti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aymane-maghouti&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Featured projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏠 [**LeBonPrix**](https://youtu.be/BbfEA7qet7k) | End-to-end rental price prediction platform — scraping, Medallion architecture, XGBoost, mobile app | Python · XGBoost · FastAPI · Spring Boot · React Native · Power BI |
+| ⚡ [**Event-Driven CDC Pipeline**](https://youtu.be/OeddlyLVAuQ) | Real-time change data capture with Kafka, Spark Streaming, Debezium | Kafka · Spark · Debezium · Spring Boot |
+| ☁️ [**ML on Azure**](https://youtube.com/playlist?list=PLW1I-Z_aFLvaYwo2BjKF-y5zQbrmygHPr) | Full ML solution migrated to Azure with MLOps pipelines and cloud-native deployment | Azure · MLflow · FastAPI · React Native |
+| 🚀 [**AWS Smartphone Pipeline**](https://youtu.be/1uOFkvmJaEQ) | Big data pipeline migrated to AWS ecosystem | Glue · Athena · S3 · QuickSight |
+| 📊 [**HR Azure Pipeline**](https://github.com/aymane-maghouti/HR-Data-Pipeline-Azure) | HR analytics pipeline with ADF, Databricks, and Power BI | ADF · Databricks · Blob Storage · Power BI |
+| 🔁 [**Sales Data Pipeline**](https://github.com/aymane-maghouti/sales-data-pipeline) | ETL from SQL Server to BigQuery with Airflow orchestration and Looker Studio | SQL Server · Airflow · BigQuery · Looker |
+
+---
+
+<div align="center">
+
+*"Good data infrastructure is invisible — you only notice it when it's missing."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4a7a,100:0d1117&height=80&section=footer" width="100%"/>
+
+</div>
